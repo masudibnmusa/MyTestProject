@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website, where I showcase my projects, skills, and experience in software development and AI.
 
 🔗 **Portfolio Website:**  
-https://masud-portfolio-d7mz.vercel.app/
+https://masudibnmusa.vercel.app/
 
 ## About Me
 
